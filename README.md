@@ -1,4 +1,4 @@
-# Sustainability GIS Analysis – Espoo and Helsinki Region
+# Sustainability GIS Analysis 
 
 This repository contains a Python-based GIS analysis using OpenStreetMap data for the Helsinki metropolitan region. The project focuses on mapping buildings, roads, and administrative boundaries, and calculating building density as a sustainability indicator.
 
